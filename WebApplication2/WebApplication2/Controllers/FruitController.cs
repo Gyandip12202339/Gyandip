@@ -18,7 +18,7 @@ namespace WebApplication2.Controllers
 
             ViewBag.store  = "Jackma Veggie";
 
-            ViewBag.Name = "my favorite fruit";
+            ViewBag.Name = "my favorite fruit"
             ViewBag.Fruit = fruit;
 
 
